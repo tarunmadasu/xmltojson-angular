@@ -1,0 +1,61 @@
+
+
+<ProfileData>
+
+<LoginName>Ram Bollu</LoginName>
+
+<FirstName>Ram</FirstName>
+
+<LastName>Bollu</LastName>
+
+<Password>vishist</Password>
+
+<AccessType>Approver</AccessType>
+
+<Status>Active</Status>
+
+<Role>Sales Person</Role>
+
+<Domain>EUR</Domain>
+
+<Amount>120000</Amount>
+
+<Department>Front Office</Department>
+
+<Business>Bonds</Business>
+
+<Administrator>Yes</Administrator>
+
+<SwapDefaultDeal>Ram.Swap.Default.xml</SwapDefaultDeal>
+
+<SwapOptionDefaultDeal>Ram.Swaption.Default.xml</SwapOptionDefaultDeal>
+
+<CapFloorDefaultDeal>CAPFLOOR.Default.xml</CapFloorDefaultDeal>
+
+<FraDefaultDeal>FRA.Default.xml</FraDefaultDeal>
+
+<ModifiedBy>Nagesh Bollu</ModifiedBy>
+
+<VerifiedBy>Hari Male</VerifiedBy>
+
+<ModifiedTimeStamp>05/02/2012 10:10PM</ModifiedTimeStamp>
+
+<VerifiedTimeStamp>05/02/2012 10:20PM</VerifiedTimeStamp>
+
+<PVAutoCalc>Yes</PVAutoCalc>
+
+<Users>Ram Bollu</Users>
+
+<MenuAccess>OTCProducts</MenuAccess>
+
+<Products>Swap</Products>
+
+<LegalEntities>IRDINRLE</LegalEntities>
+
+<FirmAccounts>IRSWPGBP</FirmAccounts>
+
+<CustomerAccounts>RBSNY</CustomerAccounts>
+
+<Locations>LON</Locations>
+
+</ProfileData>
